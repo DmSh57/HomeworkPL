@@ -4,9 +4,9 @@ import java.util.Scanner;
 /*
 Ввести с консоли любое число от 1 до 12. В зависимости от введённого числа
 вывести в консоль соответствующую пору года по номеру месяца. При решении
-использовать switch.
+использовать switch.m
  */
-public class practice2_1 {
+public class Practice2_1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

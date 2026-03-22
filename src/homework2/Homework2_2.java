@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 /*
 Для введенного числа t (температура на улице) вывести: Если t>–5, то вывести
-«Warm».
+«Warm»./
 Если –5>= t >–20, то вывести «Normal». Если –20>= t, то вывести «Cold».
  */
-public class homework2_2 {
+public class Homework2_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите значение температуры на улице");

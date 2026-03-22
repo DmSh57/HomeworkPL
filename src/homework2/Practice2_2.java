@@ -1,9 +1,9 @@
 package homework2;
 
 /*
-Используя while вывести все числа от 0 до 25 в одну строку через пробел.
+Используя while вывести все числа от 0 до 25в одну строку через пробел.
  */
-public class practice2_2 {
+public class Practice2_2 {
 
     public static void main(String[] args) {
 
