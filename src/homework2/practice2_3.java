@@ -1,7 +1,7 @@
 package homework2;
 
 /*
-Используя for вывести каждое четное число от 2 до 20 включительно и больше 10
+Используя for вывести каждое четное число от2 до 20 включительно и больше 10
  */
 public class practice2_3 {
     public static void main(String[] args) {

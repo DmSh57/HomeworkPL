@@ -1,7 +1,7 @@
 package homework2;
 /*
 Составьте программу, выводящую на экран квадраты чисел от 10 до 20
-включительно.
+включительно./
  */
 public class homework2_3 {
     public static void main(String[] args) {
