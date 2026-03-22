@@ -9,7 +9,7 @@ import java.util.Scanner;
 ввода числа воспользуйтесь классом Scanner. Сделать проверку, чтобы
 пользователь не мог ввести некорректные данные
  */
-public class homework2_5 {
+public class Homework2_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число");

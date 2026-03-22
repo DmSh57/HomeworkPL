@@ -6,7 +6,7 @@ import java.util.Scanner;
 вывести в консоль соответствующую пору года по номеру месяца. При решении
 использовать switch.m
  */
-public class practice2_1 {
+public class Practice2_1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

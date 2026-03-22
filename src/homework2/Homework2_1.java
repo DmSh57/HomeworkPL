@@ -7,7 +7,7 @@ import java.util.Scanner;
 четности числа используйте операцию получения остатка от деления (операция
 выглядит так:'% 2').
  */
-public class homework2_1 {
+public class Homework2_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число");
