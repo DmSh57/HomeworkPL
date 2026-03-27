@@ -1,6 +1,6 @@
 package homework1;
 
-public class hpmework1_3 {
+public class Homework1_3 {
     public static void main(String[] args) {
         int n = 126;
         int n1 = n / 100;

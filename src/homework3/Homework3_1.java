@@ -12,7 +12,7 @@ import java.util.Scanner;
 Задача 1:
 Пройти по массиву, вывести все элементы в прямом и в обратном порядке.
  */
-public class homework3_1 {
+public class Homework3_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();

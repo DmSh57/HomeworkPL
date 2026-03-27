@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 /*
 Найти минимальный - максимальный элементы и вывести в консоль. */
-public class homework3_2 {
+public class Homework3_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();

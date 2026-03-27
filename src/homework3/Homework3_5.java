@@ -9,7 +9,7 @@ import java.util.Scanner;
 Долго не мог понять почему массив меняет значение и получается исходное. Потом прочитал, что если /2
 то массив не будет менять значения сначало в прямом порядке, а потом в обратном.
  */
-public class homework3_5 {
+public class Homework3_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
