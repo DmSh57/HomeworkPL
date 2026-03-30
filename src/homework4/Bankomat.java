@@ -61,6 +61,11 @@ public class Bankomat {
             System.out.println("Невозможно выдать запрошенную сумму");
             return false;
         }
+
+        this.count100 = tempCount100;
+        this.count50 = tempCount50;
+        this.count20 = tempCount20;
+
         System.out.println("Успешно, выдано - " + amount);
         return true;
     }
