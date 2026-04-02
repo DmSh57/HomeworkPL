@@ -24,6 +24,7 @@ public class Therapist extends Doctor {
             doctor = new Therapist();
             System.out.println("Вам назначен терапевт");
         }
+        patient.doctor = doctor;
         doctor.treat();
     }
 }

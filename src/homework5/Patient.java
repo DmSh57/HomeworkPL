@@ -3,7 +3,7 @@ package homework5;
 public class Patient {
 
     int planChoice;
-    Doctor doctor;
+    public Doctor doctor;
 
     public Patient(int planChoice) {
         this.planChoice = planChoice;
