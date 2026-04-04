@@ -8,7 +8,7 @@ import java.util.Arrays;
 2.4 третий фрукт заменить на иной.
 2.5 проверить результат в консоли.
  */
-public class practice3_2 {
+public class Practice3_2 {
     public static void main(String[] args) {
 
         String[] fruits = {"Apple", "Banana", "Orange", "Strawberry"};

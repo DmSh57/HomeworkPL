@@ -15,7 +15,7 @@ import java.util.Scanner;
 Массив не является возрастающей последовательностью
 Дальше понял, что цикл не останавливается при нарушении, прогуглил про остановку - break
  */
-public class homework3_6 {
+public class Homework3_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();

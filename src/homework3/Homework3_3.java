@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*
 Найти индексы минимального и максимального элементов и вывести в консоль.
  */
-public class homework3_3 {
+public class Homework3_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();

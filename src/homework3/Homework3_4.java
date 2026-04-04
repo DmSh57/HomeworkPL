@@ -7,7 +7,7 @@ import java.util.Scanner;
 Найти и вывести количество нулевых элементов. Если нулевых элементов нет -
 вывести сообщение, что их нет.
  */
-public class homework3_4 {
+public class Homework3_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
