@@ -8,7 +8,7 @@ public class Homework7_4 {
         String stroka1 = scanner.nextLine();
         String stroka2 = scanner.nextLine();
         String stroka3 = scanner.nextLine();
-        String allStr = stroka1.concat(" ").concat(stroka2).concat("").concat(stroka3);
+        String allStr = stroka1.concat(" ").concat(stroka2).concat(" ").concat(stroka3);
         String[] words = allStr.split("\\s+");
         String result = null;
         for (String word : words) {
